@@ -1,0 +1,31 @@
+{
+	"image": "alliances-base:latest",
+	"runArgs": [
+		"--name",
+		"alliances-base"
+	],
+	"workspaceMount": "source=${localWorkspaceFolder},target=/home/alliances,type=bind",
+	"workspaceFolder": "/home/alliances",
+	"customizations": {
+		"vscode": {
+			"settings": {
+				"[typescript]": {
+					"editor.defaultFormatter": "dbaeumer.vscode-eslint"
+				},
+				"[typescriptreact]": {
+					"editor.defaultFormatter": "dbaeumer.vscode-eslint"
+				},
+				"eslint.options": {},
+				"eslint.workingDirectories": [
+					"./all-data/webapp"
+				]
+			},
+			"extensions": [
+				"golang.go",
+				"ms-vscode.makefile-tools",
+				"editorconfig.editorconfig",
+				"dbaeumer.vscode-eslint"
+			]
+		}
+	}
+}
