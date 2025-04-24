@@ -12,9 +12,9 @@ Other implementations are available in dedicated directories within this reposit
 
 The main idea behind the HOOD framework is described in the following papers:
 
-- [Are Claims Grounded in Data? An Empowering Linking Approach for Misalignment Identification in Online Data-Driven Discussions](https://doi.org/10.1145/3539597.3570460)
+- [Are Claims Grounded in Data? An Empowering Linking Approach for Misalignment Identification in Online Data-Driven Discussions](https://doi.org/10.1109/ACCESS.2024.3511039)
     ```bibtex
-    @ARTICLE{10776984,
+    @ARTICLE{AreClaimsGroundedInData2024,
         author = {Citro, Tiziano and Pellegrino, Maria Angela and Spagnuolo, Carmine},
         journal = {IEEE Access}, 
         title = {Are Claims Grounded in Data? An Empowering Linking Approach for Misalignment Identification in Online Data-Driven Discussions}, 
@@ -28,7 +28,7 @@ The main idea behind the HOOD framework is described in the following papers:
     ```
 - [As a Grain of Link: How Far Should We Take Link Granularity](https://doi.org/10.1145/3648188.3675146)
     ```bibtex
-    @inproceedings{10.1145/3648188.3675146,
+    @inproceedings{AsaGrainOfLink2024,
         author = {Citro, Tiziano and Pellegrino, Maria Angela and Scarano, Vittorio and Spagnuolo, Carmine},
         title = {As a Grain of Link: How Far Should We Take Link Granularity},
         year = {2024},
@@ -50,7 +50,7 @@ The main idea behind the HOOD framework is described in the following papers:
 Other papers present the different contexts HOOD framework was applied to:
 - [Increasing Cybersecurity Awareness and Collaboration in Organisations and Local/Regional Networks: The CS-AWARE-NEXT Project](https://oulurepo.oulu.fi/handle/10024/47463)
     ```bibtex
-    @inproceedings{LuidoldSWKCCAR23,
+    @inproceedings{IncreasingCybersecurityAwareness2023,
         author = {Christian Luidold and Thomas Schaberreiter and Christian Wieser and Adamantios Koumpis and Cinzia Cappiello and Tiziano Citro and Jerry Andriessen and Juha R{\"{o}}ning},
         title = {Increasing Cybersecurity Awareness and Collaboration in Organisations and Local / Regional Networks: The {CS-AWARE-NEXT} Project},
         booktitle = {Proceedings of the 1st Sustainable, Secure, and Smart Collaboration Workshop in conjunction with {CHITALY} 2023 - Biannual Conference of the Italian {SIGCHI} Chapter, },
