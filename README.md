@@ -12,7 +12,7 @@ Other implementations are available in dedicated directories within this reposit
 
 The main idea behind the HOOD framework is described in the following papers:
 
-- [Are Claims Grounded in Data? An Empowering Linking Approach for Misalignment Identification in Online Data-Driven Discussions](https://doi.org/10.1109/ACCESS.2024.3511039)
+- [Are Claims Grounded in Data? An Empowering Linking Approach for Misalignment Identification in Online Data-Driven Discussions](https://doi.org/10.1109/ACCESS.2024.3511039).
     ```bibtex
     @ARTICLE{AreClaimsGroundedInData2024,
         author = {Citro, Tiziano and Pellegrino, Maria Angela and Spagnuolo, Carmine},
@@ -26,7 +26,7 @@ The main idea behind the HOOD framework is described in the following papers:
         url = {https://doi.org/10.1109/ACCESS.2024.3511039}
     }
     ```
-- [As a Grain of Link: How Far Should We Take Link Granularity](https://doi.org/10.1145/3648188.3675146)
+- [As a Grain of Link: How Far Should We Take Link Granularity](https://doi.org/10.1145/3648188.3675146).
     ```bibtex
     @inproceedings{AsaGrainOfLink2024,
         author = {Citro, Tiziano and Pellegrino, Maria Angela and Scarano, Vittorio and Spagnuolo, Carmine},
@@ -48,7 +48,7 @@ The main idea behind the HOOD framework is described in the following papers:
     ```
 
 Other papers present the different contexts HOOD framework was applied to:
-- [Increasing Cybersecurity Awareness and Collaboration in Organisations and Local/Regional Networks: The CS-AWARE-NEXT Project](https://oulurepo.oulu.fi/handle/10024/47463)
+- [Increasing Cybersecurity Awareness and Collaboration in Organisations and Local/Regional Networks: The CS-AWARE-NEXT Project](https://ceur-ws.org/Vol-3574/paper\_5.pdf).
     ```bibtex
     @inproceedings{IncreasingCybersecurityAwareness2023,
         author = {Christian Luidold and Thomas Schaberreiter and Christian Wieser and Adamantios Koumpis and Cinzia Cappiello and Tiziano Citro and Jerry Andriessen and Juha R{\"{o}}ning},
@@ -64,3 +64,14 @@ Other papers present the different contexts HOOD framework was applied to:
     }
     ```
 
+The reasons why Mattermost was choosen as the base platform for the HOOD framework are described in the paper [On the Road of Data-driven Discussion: a Comparison of Open-source Collaboration Platforms](https://ceur-ws.org/Vol-3574/paper_4.pd).
+
+```bibtex
+@inproceedings{OnTheRoadOfDataDrivenDiscussion2023,
+    title = {On the Road of Data-driven Discussion: a Comparison of Open-source Collaboration Platforms},
+    author = {Andriessen, Jerry and Citro, Tiziano and Schaberreiter, Thomas and Serra, Luigi},
+    year = {2023}, 
+    booktitle = {Proceedings of the 1st Sustainable, Secure, and Smart Collaboration (S3C) Workshop, in conjunction with CHITALY 2023 - Biannual Conference of the Italian SIGCHI Chapter},
+    url = {https://ceur-ws.org/Vol-3574/paper\_4.pdf}
+}
+```
