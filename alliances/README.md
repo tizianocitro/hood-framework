@@ -1,10 +1,10 @@
 # Alliances
 
-A collaboration platform based on Mattermost and Hyperlinked Object-Oriented Discussion (HOOD) to discuss Universities Alliances.
+A collaboration platform based on Mattermost and Hyperlinked Object-Oriented Discussion (HOOD) to discuss European University Alliances.
 
 # Install
 - Build the packages by following the steps for each project.
-- Execute the command: `./start.sh` to clean the compose and run mattermost and alliances plugin with the data provider.
+- Execute the command: `./start.sh` to clean the compose and run Mattermost and the alliances plugin with the data provider.
 
 # Develop
 Run in `alliances` directory:
@@ -34,5 +34,5 @@ $ ./make.sh -p config.yml
 # Troubleshooting
 If you're developing on Windows through WSL2, you may have to fix some permissions first. It is recommended to clone the project on the WSL filesystem to avoid incurring in slowdowns caused by the Windows - WSL filesystem synchronization overhead.
 Be sure that:
-1) the `config/config` and `config/logs` folder are owned by the user 2000 (the Mattermost container user);
-2) the `alliances/build/manifest` and `alliances/build/pluginctl` files should have the execute flag (this might be needed if you cloned the project on the Windows filesystem and later moved it on the WSL filesystem)
+1) The `config/config` and `config/logs` folder are owned by the user 2000 (the Mattermost container user);
+2) The `alliances/build/manifest` and `alliances/build/pluginctl` files should have the execute flag (this might be needed if you cloned the project on the Windows filesystem and later moved it to the WSL filesystem)
