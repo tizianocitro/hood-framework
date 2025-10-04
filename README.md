@@ -4,10 +4,10 @@ An open-source framework built on top of the Mattermost open-source collaboratio
 
 ## Use Cases
 
-- [CS-CONNECT](https://github.com/tizianocitro/cs-aware-next-cs-connect): open-source collaboration platform built with HOOD for the Horizon Europe CS-AWARE-NEXT project, which aims to improve the cybersecurity management and collaboration capabilities of organizations and local or regional supply network.
+- [CS-CONNECT](https://github.com/tizianocitro/cs-aware-next-cs-connect): open-source collaboration platform built with HOOD for the Horizon Europe CS-AWARE-NEXT project, which aims to improve the cybersecurity management and collaboration capabilities of organizations and local or regional supply networks.
 - [Climate Change](https://github.com/tizianocitro/climate-change): open-source collaboration platform created with HOOD to identify Information Disorder in climate change discussions.
 
-Other implementations are available in dedicated directories within this repositories.
+Other implementations are available in dedicated directories within this repository.
 
 ## Papers
 
@@ -65,7 +65,7 @@ Other papers present the different contexts HOOD framework was applied to:
     }
     ```
 
-The reasons why Mattermost was choosen as the base platform for the HOOD framework are described in the paper [On the Road of Data-driven Discussion: a Comparison of Open-source Collaboration Platforms](https://ceur-ws.org/Vol-3574/paper_4.pd).
+The reasons why Mattermost was chosen as the base platform for the HOOD framework are described in the paper [On the Road of Data-driven Discussion: a Comparison of Open-source Collaboration Platforms](https://ceur-ws.org/Vol-3574/paper_4.pd).
 
 ```bibtex
 @inproceedings{OnTheRoadOfDataDrivenDiscussion2023,
