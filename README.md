@@ -1,6 +1,6 @@
 # HOOD Framework
 
-An open-source framework built on top of the Mattermost open-source collaboration platform for enabling deictic data-driven discussions via the Hyperlinked Object-Oriented Discussion (HOOD) approach.
+An open-source framework built on the Mattermost collaboration platform to enable deictic, data-driven discussions via the Hyperlinked Object-Oriented Discussion (HOOD) approach.
 
 ## Use Cases
 
@@ -30,7 +30,7 @@ The main idea behind the HOOD framework is described in the following papers:
     ```
 - [As a Grain of Link: How Far Should We Take Link Granularity](https://doi.org/10.1145/3648188.3675146).
     ```bibtex
-    @inproceedings{AsaGrainOfLink2024,
+    @inproceedings{AsAGrainOfLink2024,
         author = {Citro, Tiziano and Pellegrino, Maria Angela and Scarano, Vittorio and Spagnuolo, Carmine},
         title = {As a Grain of Link: How Far Should We Take Link Granularity},
         year = {2024},
@@ -49,7 +49,7 @@ The main idea behind the HOOD framework is described in the following papers:
     }
     ```
 
-Other papers present the different contexts HOOD framework was applied to:
+Other papers presenting the different contexts in which the HOOD framework has been applied:
 - [Increasing Cybersecurity Awareness and Collaboration in Organisations and Local/Regional Networks: The CS-AWARE-NEXT Project](https://ceur-ws.org/Vol-3574/paper\_5.pdf).
     ```bibtex
     @inproceedings{IncreasingCybersecurityAwareness2023,
@@ -66,7 +66,7 @@ Other papers present the different contexts HOOD framework was applied to:
     }
     ```
 
-The reasons why Mattermost was chosen as the base platform for the HOOD framework are described in the paper [On the Road of Data-driven Discussion: a Comparison of Open-source Collaboration Platforms](https://ceur-ws.org/Vol-3574/paper_4.pd).
+The reasons why Mattermost was chosen as the base platform for the HOOD framework are described in the paper [On the Road of Data-driven Discussion: a Comparison of Open-source Collaboration Platforms](https://ceur-ws.org/Vol-3574/paper_4.pdf).
 
 ```bibtex
 @inproceedings{OnTheRoadOfDataDrivenDiscussion2023,
