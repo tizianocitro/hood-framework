@@ -12,6 +12,8 @@ Other implementations are available in dedicated directories within this reposit
 
 ## Papers
 
+### The Idea
+
 The main idea behind the HOOD framework is described in the following papers:
 
 - [Are Claims Grounded in Data? An Empowering Linking Approach for Misalignment Identification in Online Data-Driven Discussions](https://doi.org/10.1109/ACCESS.2024.3511039).
@@ -49,6 +51,20 @@ The main idea behind the HOOD framework is described in the following papers:
     }
     ```
 
+The reasons why Mattermost was chosen as the base platform for the HOOD framework are described in the paper [On the Road of Data-driven Discussion: a Comparison of Open-source Collaboration Platforms](https://ceur-ws.org/Vol-3574/paper_4.pdf).
+
+```bibtex
+@inproceedings{OnTheRoadOfDataDrivenDiscussion2023,
+    title = {On the Road of Data-driven Discussion: a Comparison of Open-source Collaboration Platforms},
+    author = {Andriessen, Jerry and Citro, Tiziano and Schaberreiter, Thomas and Serra, Luigi},
+    year = {2023}, 
+    booktitle = {Proceedings of the 1st Sustainable, Secure, and Smart Collaboration (S3C) Workshop, in conjunction with CHITALY 2023 - Biannual Conference of the Italian SIGCHI Chapter},
+    url = {https://ceur-ws.org/Vol-3574/paper\_4.pdf}
+}
+```
+
+### The applications
+
 Other papers presenting the different contexts in which the HOOD framework has been applied:
 - [Ground your Statement in Data! A Hands-on Activity to Meet European University Alliances](https://dl.acm.org/doi/full/10.1145/3750069.3755964).
     ```bibtex
@@ -85,16 +101,3 @@ Other papers presenting the different contexts in which the HOOD framework has b
         location = {Turin, Italy}
     }
     ```
-    
-
-The reasons why Mattermost was chosen as the base platform for the HOOD framework are described in the paper [On the Road of Data-driven Discussion: a Comparison of Open-source Collaboration Platforms](https://ceur-ws.org/Vol-3574/paper_4.pdf).
-
-```bibtex
-@inproceedings{OnTheRoadOfDataDrivenDiscussion2023,
-    title = {On the Road of Data-driven Discussion: a Comparison of Open-source Collaboration Platforms},
-    author = {Andriessen, Jerry and Citro, Tiziano and Schaberreiter, Thomas and Serra, Luigi},
-    year = {2023}, 
-    booktitle = {Proceedings of the 1st Sustainable, Secure, and Smart Collaboration (S3C) Workshop, in conjunction with CHITALY 2023 - Biannual Conference of the Italian SIGCHI Chapter},
-    url = {https://ceur-ws.org/Vol-3574/paper\_4.pdf}
-}
-```
