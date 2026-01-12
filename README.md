@@ -9,7 +9,7 @@ An open-source framework built on the Mattermost collaboration platform to enabl
 - [E4C](https://github.com/tizianocitro/hood-framework/tree/main/e4c): collaboration platform created with HOOD to discuss and collaborate on energy consumption data for making decisions on how to improve energy efficiency.
 - [Alliances](https://github.com/tizianocitro/hood-framework/tree/main/alliances): open-source collaboration platform created with HOOD to discuss European University Alliances.
 
-Other implementations are available in dedicated directories within this repository.
+Some implementations are open-source and available in dedicated directories within this repository.
 
 ## Papers
 
