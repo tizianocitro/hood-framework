@@ -6,6 +6,7 @@ An open-source framework built on the Mattermost collaboration platform to enabl
 
 - [CS-CONNECT](https://github.com/tizianocitro/cs-aware-next-cs-connect): open-source collaboration platform built with HOOD for the Horizon Europe CS-AWARE-NEXT project, which aims to improve the cybersecurity management and collaboration capabilities of organizations and local or regional supply networks.
 - [Climate Change](https://github.com/tizianocitro/climate-change): open-source collaboration platform created with HOOD to identify Information Disorder in climate change discussions.
+- [E4C](https://github.com/tizianocitro/hood-framework/tree/main/e4c): collaboration platform created with HOOD to discuss and collaborate on energy consumption data for making decisions on how to improve energy efficiency.
 - [Alliances](https://github.com/tizianocitro/hood-framework/tree/main/alliances): open-source collaboration platform created with HOOD to discuss European University Alliances.
 
 Other implementations are available in dedicated directories within this repository.
@@ -66,9 +67,29 @@ The reasons why Mattermost was chosen as the base platform for the HOOD framewor
 ### The applications
 
 Other papers presenting the different contexts in which the HOOD framework has been applied:
+- [Facilitating co-referencing data visualisations on an online platform](https://dl.acm.org/doi/full/10.1145/3746175.3746212).
+    ```bibtex
+    @inproceedings{FacilitatingCoreferencingDataVisualisation2025,
+      author = {Safin, St\'{e}phane and Tarasenka, Dziyana and Baker, Michael and D\'{e}tienne, Fran\c{c}oise and Citro, Tiziano and Pellegrino, Maria Angela and Spagnuolo, Carmine and Scarano, Vittorio},
+      title = {Facilitating co-referencing data visualisations on an online platform},
+      year = {2025},
+      isbn = {9798400720338},
+      publisher = {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      url = {https://doi.org/10.1145/3746175.3746212},
+      doi = {10.1145/3746175.3746212},
+      abstract = {In order to enhance quality of decisions and conflict resolution, knowledge-based dialogues need to be grounded in objective visualised data. However, co-referencing visualisations of relevant data is difficult in online platforms, given that pointing to specific aspects, avoiding lengthy verbal descriptions, may be problematic. We describe a preliminary study of the use of the HOOD platform, designed specifically for online data-driven dialogues, in the context of a case study on optimising energy consumption. We propose a methodology for understanding and describing the mobilisation of data in dialogic activity by end-users. Qualitative analysis of dialogues and referencing of data visualisations revealed different patterns of exploration of multiple visualisations, showing this to be the key issue.},
+      booktitle = {Proceedings of the 36th Annual Conference of the European Association of Cognitive Ergonomics},
+      articleno = {44},
+      numpages = {5},
+      keywords = {Data pointing, Data-driven dialog, Online dialog},
+      location = {Rennes, France},
+      series = {ECCE '25}
+    }
+    ```
 - [Ground your Statement in Data! A Hands-on Activity to Meet European University Alliances](https://dl.acm.org/doi/full/10.1145/3750069.3755964).
     ```bibtex
-    @inproceedings{10.1145/3750069.3755964,
+    @inproceedings{GroundStatementInData2025,
       author = {Citro, Tiziano and Pellegrino, Maria Angela},
       title = {Ground your Statement in Data! A Hands-on Activity to Meet European University Alliances},
       year = {2025},
