@@ -50,6 +50,26 @@ The main idea behind the HOOD framework is described in the following papers:
     ```
 
 Other papers presenting the different contexts in which the HOOD framework has been applied:
+- [Ground your Statement in Data! A Hands-on Activity to Meet European University Alliances](https://dl.acm.org/doi/full/10.1145/3750069.3755964).
+    ```bibtex
+    @inproceedings{10.1145/3750069.3755964,
+      author = {Citro, Tiziano and Pellegrino, Maria Angela},
+      title = {Ground your Statement in Data! A Hands-on Activity to Meet European University Alliances},
+      year = {2025},
+      isbn = {9798400721021},
+      publisher = {Association for Computing Machinery},
+      address = {New York, NY, USA},
+      url = {https://doi.org/10.1145/3750069.3755964},
+      doi = {10.1145/3750069.3755964},
+      abstract = {European University Alliances aim to foster collaboration and innovation across higher education, yet remain largely unknown to high school learners. This paper introduces an educational activity using Open Data and a technology-enhanced platform, HOOD, to raise awareness among 21 high school learners. Through interactive visualizations and collaborative tools, learners verified statements about the European University Alliances using real data. Results show strong engagement and improved understanding, though deeper retention may require extended exposure.},
+      booktitle = {Proceedings of the 16th Biannual Conference of the Italian SIGCHI Chapter},
+      articleno = {104},
+      numpages = {3},
+      keywords = {European University Alliances, Data-driven Discussions, Data Visualization, Engagement, Learning, Open Data, High School},
+      location = {Bari, Italy},
+      series = {CHItaly '25}
+    }
+    ```
 - [Increasing Cybersecurity Awareness and Collaboration in Organisations and Local/Regional Networks: The CS-AWARE-NEXT Project](https://ceur-ws.org/Vol-3574/paper\_5.pdf).
     ```bibtex
     @inproceedings{IncreasingCybersecurityAwareness2023,
@@ -65,6 +85,7 @@ Other papers presenting the different contexts in which the HOOD framework has b
         location = {Turin, Italy}
     }
     ```
+    
 
 The reasons why Mattermost was chosen as the base platform for the HOOD framework are described in the paper [On the Road of Data-driven Discussion: a Comparison of Open-source Collaboration Platforms](https://ceur-ws.org/Vol-3574/paper_4.pdf).
 
